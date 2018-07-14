@@ -1,6 +1,9 @@
 # Puppy
 Small Android Application for LEGO Powered Up made with MIT App Inventor
 
+Why "Puppy"?
+Powered Up is being called PUP. It reminds me of Scooby-doo nephew catchphrase ("Puppy Power!").
+
 The Design view:
 
 ![Design](https://raw.githubusercontent.com/JorgePe/Puppy/master/puppy01.png)
