@@ -11,6 +11,13 @@ The Design view:
 The Blocks view:
 ![Blocks](https://raw.githubusercontent.com/JorgePe/Puppy/master/puppy02.png)
 
-A demo video:
 
-[![Demo video](https://i9.ytimg.com/vi/ykHJtEJ2xL0/mqdefault.jpg?sqp=CJy4qdoF&rs=AOn4CLAGB_o_fLsMHDfI6exwHPQxbFcWqw&time=1531600145172)](https://youtu.be/ykHJtEJ2xL0)
+Two demo videos:
+
+Controlling LEGO Powered Up with Andrdoid MIT App Inventor 2:
+
+[![Controlling LEGO Powered Up with Android MIT App Inventor 2](https://i9.ytimg.com/vi/ykHJtEJ2xL0/default.jpg?sqp=CMzJt9oF&rs=AOn4CLDg5neebp5ph_gMEL9ZkBjhjjua2g)](https://youtu.be/ykHJtEJ2xL0)
+
+Puppy - a Powered Up Robo Explorer:
+
+[![Puppy - a Powered Up Robo Explorer](https://i9.ytimg.com/vi/WuZVt__z6h8/default.jpg?v=5b4de3a7&sqp=CMzJt9oF&rs=AOn4CLCnTUexxZCl_bF2h2VR7BSGAkK8mg)](https://youtu.be/WuZVt__z6h8)
