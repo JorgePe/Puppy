@@ -21,3 +21,7 @@ Controlling LEGO Powered Up with Andrdoid MIT App Inventor 2:
 Puppy - a Powered Up Robo Explorer:
 
 [![Puppy - a Powered Up Robo Explorer](https://i9.ytimg.com/vi/WuZVt__z6h8/default.jpg?v=5b4de3a7&sqp=CMzJt9oF&rs=AOn4CLCnTUexxZCl_bF2h2VR7BSGAkK8mg)](https://youtu.be/WuZVt__z6h8)
+
+NOTE:
+
+When building the final APK there is a [bug with the BLE Extension](https://www.hackster.io/daquilnp/bluetooth-hr-monitor-android-app-with-mit-app-inventor-27229c) permissions. After installing it, you need to give permissions to access Location.
